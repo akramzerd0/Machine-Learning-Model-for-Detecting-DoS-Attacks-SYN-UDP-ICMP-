@@ -114,7 +114,6 @@ project-folder/
 │
 ├── data/
 ├── notebooks/
-├── images/
 ├── README.md
 └── requirements.txt
 ```
