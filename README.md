@@ -123,10 +123,13 @@ project-folder/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/akramzerd0/Machine-Learning-Model-for-Detecting-DoS-Attacks-SYN-UDP-ICMP-.git
+
+# Go into the project folder
+cd Machine-Learning-Model-for-Detecting-DoS-Attacks-SYN-UDP-ICMP-
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run notebook
+# Run Jupyter Notebook
 jupyter notebook
