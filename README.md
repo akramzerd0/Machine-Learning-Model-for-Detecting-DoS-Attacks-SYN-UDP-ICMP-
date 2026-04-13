@@ -108,6 +108,8 @@ The following metrics were used:
 ---
 
 ## 📁 Project Structure
+
+```
 project-folder/
 │
 ├── data/
@@ -115,6 +117,7 @@ project-folder/
 ├── images/
 ├── README.md
 └── requirements.txt
+```
 
 ## How to Run
 
