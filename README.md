@@ -73,8 +73,8 @@ The following metrics were used:
 
 | Model          | Accuracy | Comments        |
 |----------------|---------|----------------|
-| Decision Tree  | ~98%    | Overfitting ❌  |
-| MLP            | ~76%    | Best model ✅   |
+| Decision Tree  | ~98%    | Overfitting   |
+| MLP            | ~76%    | Best model    |
 
 ---
 
