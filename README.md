@@ -107,7 +107,7 @@ The following metrics were used:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 project-folder/
